@@ -53,7 +53,7 @@
 <td align="center">
 <img src="img/med/med2.png" alt="边缘段截图" width="300"/>
 <br>
-<sub>边缘段截图</sub>
+<sub>边缘端截图</sub>
 </td>
 </tr>
 </table>
