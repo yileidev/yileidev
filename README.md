@@ -26,15 +26,22 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![API](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 ## 🎨 精选项目
 
 ### **基于边缘-云端协同的多模态AI分诊与诊断系统的设计与实现 | 毕业设计**
 *开发时间：2025.09-2026.03*
 
-参与多平台AI大模型数据采集爬虫开发，实现DeepSeek、豆包、元宝、蚂蚁阿福等主流大模型的自动化提问、回复抓取及元数据结构化存储。较人工采集模式降低耗时85%。同时协助推进晨泰AI-roleplay系统迭代优化，分类梳理用户及内部使用反馈，对接开发、测试环节跟进需求落地进度。
+项目介绍：该项目是一个面向急诊医疗场景的端云协同智能分诊系统，集成了 AI 辅助诊断、规则引擎、边缘设备采集、实时通信、多角色协同管理和医疗资源调度 等能力。项目通过 Spring Boot 后端、Vue 3 前端和 Python 边缘端共同构建，旨在提升急诊分诊效率、规范诊疗流程、降低医护人员重复录入负担，并为急诊科室提供智能化、可追溯、可扩展的分诊管理方案。
 
-**技术栈：** Spring Boot + Vue 3 + LangChain4j + Jetson边缘计算
+该平台以急诊分诊业务为核心，覆盖患者到院登记、生命体征采集、边缘端预分诊、云端 AI 辅助分析、Drools 规则判断、护士复核确认、医生接诊诊断、医疗资源调度、系统监控与日志审计等完整流程，形成从“数据采集”到“诊疗决策辅助”的闭环。
+
+**技术栈：** Java + Spring Boot + Vue 3 + MySQL + Redis + LangChain4j + Drools + MQTT + WebSocket + Python + Docker
 
 <div align="center">
 <table>
