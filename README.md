@@ -25,7 +25,6 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![API](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
