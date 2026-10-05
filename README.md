@@ -1,7 +1,7 @@
 # 👋 你好，我是王易磊 | 个人开发者
 [
 ![GitHub Banner](https://stats.justsong.cn/api?username=yileidev&show_icons=true&theme=radical)
-![Top Languages](https://stats.justsong.cn/api/top-langs/?username=yileidev&layout=compact&theme=radical)](https://stats.justsong.cn/api?username=panzerdream&show_icons=true&theme=radical
+![Top Languages](https://stats.justsong.cn/api/top-langs/?username=yileidev&layout=compact&theme=radical)
 
 ## 🚀 关于我
 
