@@ -1,6 +1,8 @@
 # 👋 你好，我是王易磊 | 个人开发者
 
-[🇨🇳 中文](#) | [🇬🇧 English](./README.en.md)
+**🌐 语言 / Language：**
+[🇨🇳 中文](https://github.com/yileidev/yileidev/blob/main/README.md) ｜
+[🇬🇧 English](https://github.com/yileidev/yileidev/blob/main/README.en.md)
 
 ## 🚀 关于我
 
